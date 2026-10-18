@@ -35,15 +35,15 @@ Anonymous range downloads were also checked, including Yassin Yusuf (012).
 
 [Download inventory with per-surah URLs, sizes and SHA-256 hashes](DOWNLOADS.json).
 
-| Narration | Reciter | Original MP3s |
-| --- | --- | --- |
-| qalon | [الدوكالي محمد العالم](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-dokali208-2026-10-08) | 114 |
-| qalon | [علي الحذيفي](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-hudhaify75-2026-10-08) | 114 |
-| qalon | [محمود خليل الحصري](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-husary270-2026-10-08) | 114 |
-| warsh | [محمود خليل الحصري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-husary120-2026-10-08) | 114 |
-| warsh | [العيون الكوشي](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-koshi16-2026-10-08) | 114 |
-| warsh | [عمر القزابري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-qazabri80-2026-10-08) | 114 |
-| warsh | [ياسين الجزائري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-yassin14-2026-10-08) | 114 |
+| Narration | Reciter — العربية | Reciter — English | Original MP3s |
+| --- | --- | --- | --- |
+| qalon | [الدوكالي محمد العالم](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-dokali208-2026-10-08) | Addokali Mohammad Alalim | 114 |
+| qalon | [علي بن عبدالرحمن الحذيفي](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-hudhaify75-2026-10-08) | Ali Alhuthaifi | 114 |
+| qalon | [محمود خليل الحصري](https://github.com/iptvchecker/content-mp3quran/releases/tag/qalon-husary270-2026-10-08) | Mahmoud Khalil Al-Hussary | 114 |
+| warsh | [محمود خليل الحصري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-husary120-2026-10-08) | Mahmoud Khalil Al-Hussary | 114 |
+| warsh | [العيون الكوشي](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-koshi16-2026-10-08) | Aloyoon Al-Koshi | 114 |
+| warsh | [عمر القزابري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-qazabri80-2026-10-08) | Omar Al-Qazabri | 114 |
+| warsh | [القارئ ياسين](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-yassin14-2026-10-08) | Al-Qaria Yassen | 114 |
 
 ## Distinct source mirrors
 
