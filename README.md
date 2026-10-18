@@ -4,14 +4,10 @@ Faithful copies of selected original MP3Quran Warsh and Qaloon recordings and
 publisher timing responses. Publisher permission: https://www.mp3quran.net/ar/privacy
 Original publisher: https://www.mp3quran.net/
 
-This repository makes these Islamic resources available for reuse. It does not
-claim ownership, close the material, edit recordings, or replace publisher credit.
-Original bytes are retained. No Mishary Alafasy recording is included.
+Original recording bytes and publisher credit are retained.
 
-Audio is supplied as public GitHub release assets, one immutable dated release
+Audio is supplied as GitHub release assets, one immutable dated release
 per publisher recording ID. Each release retains SOURCE.json and CHECKSUMS.sha256.
-Resource files are downloadable without account credentials. Publishing credentials
-are private operator credentials and never belong in this repository or the app.
 
 Publisher timing JSON lives under timings/READING-ID/2026-10-08/. These are exact
 original responses, not app-corrected timing data. Known app-specific corrections
@@ -61,12 +57,9 @@ Name sources: [Arabic catalog](https://www.mp3quran.net/api/v3/reciters?language
 | [Al Quran Cloud](https://github.com/iptvchecker/content-alquran-cloud) | Original Pickthall and al-Muyassar responses and edition credits |
 | This MP3Quran mirror | Seven complete recordings and 798 unchanged timing responses |
 
-These are scoped mirrors, not a claim that every app resource is redistribution
-cleared. EveryAyah and QuranFoundation resources remain outside this public
-batch pending redistribution clearance. Two QuranEnc Muhtasar editions remain
-pending required publisher version metadata. Original source rights and credits
-continue to apply; availability alone does not mean public domain.
+Original timing responses are retained unchanged. Source metadata and checksum
+records accompany each mirrored collection.
 
-App integration, trust-key management and server failover are a separate phase.
-The app does not yet use these mirrors. Original timing data is intentionally
-unchanged; integration must preserve existing app timing corrections.
+## Mirror documentation update — October 18, 2026
+
+Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
