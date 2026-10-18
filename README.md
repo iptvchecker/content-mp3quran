@@ -1,25 +1,12 @@
-# MP3Quran original resource mirror
+# MP3Quran recording and timing mirror
 
-Faithful copies of selected original MP3Quran Warsh and Qaloon recordings and
-publisher timing responses. Publisher permission: https://www.mp3quran.net/ar/privacy
-Original publisher: https://www.mp3quran.net/
+Original MP3Quran Warsh and Qaloon recordings and publisher timing responses.
+Source: https://www.mp3quran.net/
+Publisher conditions: https://www.mp3quran.net/ar/privacy
 
-Original recording bytes and publisher credit are retained.
+Individual MP3 files are available as GitHub release assets, grouped by recording ID and snapshot date. Each release includes SOURCE.json and CHECKSUMS.sha256.
 
-Audio is supplied as GitHub release assets, one immutable dated release
-per publisher recording ID. Each release retains SOURCE.json and CHECKSUMS.sha256.
-
-Publisher timing JSON lives under timings/READING-ID/2026-10-08/. These are exact
-original responses, not app-corrected timing data. Known app-specific corrections
-must be reviewed separately at integration; they are not applied to source mirrors.
-
-Source versions, observed HTTP validators, retrieval dates, byte counts and SHA-256
-hashes are recorded. Publisher publication dates are not invented when absent;
-HTTP Last-Modified is kept as an observed validator, not assumed to be publication.
-
-Later updates go into new dated snapshots and review branches. Never delete older
-files or releases automatically because upstream removes or changes its resources.
-Existing app-pinned releases must remain available. No app endpoint is changed here.
+Original timing responses are under `timings/READING-ID/2026-10-08/`. Source versions, observed HTTP validators, retrieval dates, byte counts and SHA-256 hashes accompany the files.
 
 ## Published snapshot — 2026-10-08
 
@@ -41,7 +28,7 @@ Anonymous range downloads were also checked, including Yassin Yusuf (012).
 | warsh | [عمر القزابري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-qazabri80-2026-10-08) | Omar Al-Qazabri | 114 |
 | warsh | [القارئ ياسين](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-yassin14-2026-10-08) | Al-Qaria Yassen | 114 |
 
-Listing change (October 18, 2026): this README displays Arabic and English reciter names copied from MP3Quran’s Arabic and English API catalogs, matched by the existing recording (moshaf) IDs. This makes the seven existing collections identifiable in both languages. Only this explanatory listing changed; original provider metadata, recordings, timing responses, filenames and download links were not modified. App-specific localization and corrections are maintained separately in the app.
+Listing change (October 18, 2026): this README displays Arabic and English reciter names copied from MP3Quran’s Arabic and English API catalogs, matched by the existing recording (moshaf) IDs. This makes the seven existing collections identifiable in both languages. Only this explanatory listing changed; original provider metadata, recordings, timing responses, filenames and download links were not modified.
 
 Name sources: [Arabic catalog](https://www.mp3quran.net/api/v3/reciters?language=ar), [English catalog](https://www.mp3quran.net/api/v3/reciters?language=eng).
 
@@ -57,9 +44,6 @@ Name sources: [Arabic catalog](https://www.mp3quran.net/api/v3/reciters?language
 | [Al Quran Cloud](https://github.com/iptvchecker/content-alquran-cloud) | Original Pickthall and al-Muyassar responses and edition credits |
 | This MP3Quran mirror | Seven complete recordings and 798 unchanged timing responses |
 
-Original timing responses are retained unchanged. Source metadata and checksum
-records accompany each mirrored collection.
-
 ## Mirror documentation update — October 18, 2026
 
-Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
+Simplified the mirror description to focus on content, sources and file layout. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
