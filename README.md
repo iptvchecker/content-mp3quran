@@ -45,6 +45,10 @@ Anonymous range downloads were also checked, including Yassin Yusuf (012).
 | warsh | [عمر القزابري](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-qazabri80-2026-10-08) | Omar Al-Qazabri | 114 |
 | warsh | [القارئ ياسين](https://github.com/iptvchecker/content-mp3quran/releases/tag/warsh-yassin14-2026-10-08) | Al-Qaria Yassen | 114 |
 
+Listing change (October 18, 2026): this README displays Arabic and English reciter names copied from MP3Quran’s Arabic and English API catalogs, matched by the existing recording (moshaf) IDs. This makes the seven existing collections identifiable in both languages. Only this explanatory listing changed; original provider metadata, recordings, timing responses, filenames and download links were not modified. App-specific localization and corrections are maintained separately in the app.
+
+Name sources: [Arabic catalog](https://www.mp3quran.net/api/v3/reciters?language=ar), [English catalog](https://www.mp3quran.net/api/v3/reciters?language=eng).
+
 ## Distinct source mirrors
 
 | Publisher mirror | Published scope |
